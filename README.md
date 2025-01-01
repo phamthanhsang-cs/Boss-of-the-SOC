@@ -12,7 +12,7 @@ This repository provides foundational information about the BOTS event and serve
 ## Walkthroughs
 All detailed walkthroughs and write-ups for various BOTS scenarios are published on my blog. Visit the blog for in-depth guidance, solutions, and learning materials:
 
-[**Visit My Blog**](phamthanhsang-cs.github.io) 
+[**Visit My Blog**](https://phamthanhsang-cs.github.io) 
 
 ## Why BOTS?
 - Improve skills in incident response and threat hunting.
